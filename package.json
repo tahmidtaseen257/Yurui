@@ -1,0 +1,16 @@
+{
+  "name": "yurui",
+  "version": "1.0.0",
+  "description": "Just a easy game made by us !!!",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Tahmid Ahnaf Taseen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
